@@ -1,0 +1,6 @@
+level 3->4
+1)-> utiliser la commande => ls , pour voir les fichiers et repertoires existants,(il existe le repertoire nomee"inhere"),
+2)-> faire la commande => cd inhere utiliser la repertoire "inhere",
+3)-> une fois entre dans le repertoire "inhere" ,faire la commande => ls --all pour voir le fichier cache qui est dedans,
+4)-> le nom du fichier du fichier cache est ".hidden" , faire la commande => cat .hidden ,pour voir son contenu,
+5)-> bandit4 : 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe

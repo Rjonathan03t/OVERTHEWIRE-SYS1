@@ -1,0 +1,5 @@
+level 10-11
+1)->  faire la commande => ls , pour afficher les fichiers existants 
+2)-> faire la commande =>  cat data.txt | base64 -d, cat data.txt c'est pour afficher les contenus du fichier data.txt (son contenu est ici des chaines 
+      de caracteres aleatoires),la commande "base-64 -d" c'est pour decoder les donnees 
+3)-> bandit11 : 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM

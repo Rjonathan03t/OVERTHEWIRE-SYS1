@@ -1,0 +1,4 @@
+level 6-7
+1)-> faire la commande => "find / -user bandit7 -group bandit6 -size 33c 2>/dev/null" pour trouver le fichier ou est stocke  le mot de passe 
+2)-> faire la commande => cat /var/lib/dpkg/info/bandit7.password
+3)-> bandit7 : z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S

@@ -1,0 +1,4 @@
+level 7-8
+1)-> faire la commande => ls , pour voir les fichiers existants,
+2)-> faire la commande => grep "millionth" data.txt, pour affiche le mot millionth et voir le mot de passe qui a cote de lui ,
+2)-> bandit8 : TESKZC0XvTetK0S9xNwm25STk5iWrBvP

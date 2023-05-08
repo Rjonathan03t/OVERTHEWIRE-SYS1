@@ -1,0 +1,10 @@
+level 0->1
+bandit0 : bandit0
+chercher le mot de  passe du bandit1 dans le fichier readme 
+1)-> utiliser la commande  =>  ls  ,pour voir les fichier existants,
+2)-> faire la commande => cat readme ,pour voir les contenus du fichier readme,
+3)-> le mot de passe etait dans le fichier readme , recuperer ce mot de passe en faisant un copie coller,
+4)-> faire la commande => exit ,c'est pour quitter le repertoire
+5)-> entrer dans le repertoire du bandit1 en faisant la commande, ssh ssh bandit1@bandit.labs.overthewire.org -p 2220
+6)-> saisir le mot de passe qu'on vient de recuperer dans le fichier readme du bandit0
+7)-> bandit 1 => NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL

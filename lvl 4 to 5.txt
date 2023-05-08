@@ -1,0 +1,5 @@
+level 4->5
+1)-> faire la commande => cd inhere pour utiliser le repertoire "inhere" , 
+2)-> faire la commande => ls --all , pour voir tout les fichiers existants,
+3)-> faire la commande => cat ./-fichier00 jusqu'a fichier09 et voir le contenu un a un jusq'a ce qu'on voit le code visible par l'homme,(c'est le fichier "-file07")
+4)-> bandit5 : lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR

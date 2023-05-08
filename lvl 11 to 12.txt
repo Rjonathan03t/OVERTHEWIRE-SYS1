@@ -1,0 +1,4 @@
+level 11-12
+1)-> faire la commande => ls pour voir les fichiers existants ,
+2)-> faire la commande =>  cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m', "tr" est utilisée pour traduire/transformer des données d'un formulaire à un autre
+3)-> bandit12 : JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv

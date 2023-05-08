@@ -1,0 +1,6 @@
+lvl 14-15 
+1)-> faire la commande =>  cat /etc/bandit_pass/bandit14 , pour voir le contenu de ce fichier parce que 
+     le jeu d'avant indiquait que le mot de passe se trouvait dans /etc/bandit_pass/bandit14 
+2)-> recuperer le mot de passe ,puis faire la commande => nc localhost 30000, pour soumettre le mot de passe au port 3000
+    sur localhost , puis recuperer le mot de passe de bandit15
+3)-> bandit15 : jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt

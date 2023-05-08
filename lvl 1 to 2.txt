@@ -1,0 +1,6 @@
+level 1->2
+1)-> apres avoir entrer dans le repertoir du bandit1 , on utilise la commande => ls ,  pour voir tout les fichiers existants,
+2)-> le nom du fichier etant '-', pour le systeme windows la commande cat+nom du fichier ne marche plus parceque le nom du fichier 
+     ici est '-', donc il faut faire le chemain absolu jusqu'a '-' pour voir son contenu, 
+     donc la commande a faire est => cat ./-, (cat ./+nomfichier).
+3)-> bandit2: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi

@@ -1,0 +1,5 @@
+level 8-9
+1)-> faire la commande => ls ,pour voir les fivhiers existants,
+2)-> faire la commande => cat data.txt | sort | unique -u, "-u"veut dire n'imprimer que les lignes uniques , la commande sort veut dire trier les ligns des fichiers
+     , la commande unique veut dire signaler les lignes repetes et la commande cat +nomfichier veut dire afficher les contenues du fichier
+3)-> bandit9 : EN632PlfYiZbn3PhVK3XOGSlNInNE00t

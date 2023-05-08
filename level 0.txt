@@ -1,0 +1,5 @@
+SYS1
+Level 0
+1) ->faire la commande => ssh bandit0@bandit.labs.overthewire.org -p 2220 (preciser le port que l'on veut utiliser), c'est pour entrer dans le repertoire 
+2) ->saisisser le mot de passe =>  bandit0
+

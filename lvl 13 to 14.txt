@@ -1,0 +1,6 @@
+lvl 13-14
+1)-> faire la commande => scp -P 2220 bandit13@bandit.labs.overthewire.org:sshkey.private ., c'est pour se connecter au 
+     machine distant et obtenir la cle ssh
+2)-> sasir le mot de passe de bandti13 
+3)-> faire la commande => ssh -i sshkey.private bandit14@bandit.labs.overthewire.org -p 2220 , pour entrer dans le serveur 
+     en tant que bandit14 avec la cle , c'est surtout l'utilisation de "-i"

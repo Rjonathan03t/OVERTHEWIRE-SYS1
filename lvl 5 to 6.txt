@@ -1,0 +1,7 @@
+levle 5->6 
+1)-> faire la commande => cd inhere pour utiliser le repertoire "inhere",
+2)-> faire la commande => ls --all ,pour voir le sfichiers et les repertoires existants dans le repertoire "inhere"
+3)-> faire la commande => find . -type f -size 1033c , "." c'est parce que on fait une recherche dans le repertoire  ,"-type f -size 1033c"
+     c'est pour indiquer qu'on cherche un fichier de 1033 octet de taille 
+4)-> une fois le fichier trouve, faire la commande => cat ./.file1 parce que le nom de fichier dans le repertoire "maybehere07" est ".file2"
+5)->  bandit 6 : P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU

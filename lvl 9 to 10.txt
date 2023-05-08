@@ -1,0 +1,5 @@
+level 9-10
+1)-> faire la commande => ls , pour voir les fichiers existants 
+2)-> faire la commande => string data.txt , c'est pour avoir les contenues lisibles par l'homme ,
+3)-> cherche la chine precede de plusieurs "=", 
+4)-> bandit10 :  G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
